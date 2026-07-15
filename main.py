@@ -6,8 +6,7 @@ from wordlist import words
 
 art = {0:"",1:"+---+",2:"+---+\n""|   O",3:"+---+\n""|   O\n""|  /|\\",4:" +---+\n""|   O\n""|  /|\\\n""|   |",5:"+---+\n""|   O\n""|  /|\\\n""|   |\n" "|  / \\",
        6:"+---+\n""|   O\n""|  /|\\\n""|   |\n" "|  / \\\n""========="}
-words = ["reach","blind","guess","joint","piano","claim","stake","kneel","clash","sight","plant","brain","crime","craft","Koran",
-         "ready","crack","pitch","mouth","thank","beard","dozen","knock","snail","lunch","bless","ample","trace","quiet","cable"]
+
 
 game = True
 playerinput = ""
