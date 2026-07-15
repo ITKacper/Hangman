@@ -1,0 +1,2 @@
+words = ["reach","blind","guess","joint","piano","claim","stake","kneel","clash","sight","plant","brain","crime","craft","Koran",
+         "ready","crack","pitch","mouth","thank","beard","dozen","knock","snail","lunch","bless","ample","trace","quiet","cable"]
